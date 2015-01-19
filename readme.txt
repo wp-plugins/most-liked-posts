@@ -9,7 +9,7 @@ License: GPLv3 or later
 Wordpress widget displaying list of posts ordered by number of Facebook likes.
 
 == Description ==
-This plugin allow to use new widget - Most liked posts. This widget displays list of posts ordered by number of Facebook likes. Number of likes is updated hourly by wp cronjobs. Plugin doesn\'t require any additional configuration. Just install, add widget to your sidebar area and have fun!
+This plugin allow to use new widget - Most liked posts. This widget displays list of posts ordered by number of Facebook likes. Number of likes is updated hourly by wp cronjobs. Plugin doesn't require any additional configuration. Just install, add widget to your sidebar area and have fun!
 
 == Installation ==
 1. Install plugin
