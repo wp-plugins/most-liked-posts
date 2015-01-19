@@ -39,7 +39,7 @@ add_action('wp_enqueue_scripts', 'registerPluginStyles');
 
 function registerPluginStyles()
 {
-    wp_register_style('MostLikedPosts', plugins_url('wp-most-liked-posts/MostLikedPosts.css'));
+    wp_register_style('MostLikedPosts', plugins_url('most-liked-posts/MostLikedPosts.css'));
     wp_enqueue_style('MostLikedPosts');
 }
 
